@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SPI_CLK Pin=D400-4
+Added Pin To Net: NetName=WS2812B Pin=D400-4
+Added Pin To Net: NetName=WS2812B Pin=U300-13
+Added Net: Name=WS2812B
